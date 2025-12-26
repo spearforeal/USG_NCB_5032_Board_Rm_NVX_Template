@@ -167,6 +167,17 @@
         ],
 		"LightingPresetNames":
 		[
+			"All On",
+			"All Off",
+			"Scene 1",
+			"Scene 2",
+			"Scene 3",
+            "Scene 4",
+            "Up",
+            "Down"
+		],
+        "ShadePresetNames":
+        [
 			"Blackout",
 			"Shade",
 			"Shade",
@@ -175,7 +186,7 @@
             "Scene 4",
             "Up",
             "Down"
-		],
+        ],
         "CameraNames":[
             "Front Right Camera",
             "Front Left Camera",
